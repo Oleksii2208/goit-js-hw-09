@@ -1,0 +1,15 @@
+.feedback-form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-width: 300px;
+  margin-top: 20px;
+}
+
+.feedback-form label {
+  display: flex;
+  flex-direction: column;
+  font-size: 14px;
+  font-weight: bold;
+  color: #333;
+}
