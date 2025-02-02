@@ -5,3 +5,12 @@
   align-items: center;
   justify-content: center;
 }
+
+.gallery-image {
+  width: 360px;
+  height: 200px;
+}
+
+.gallery-item:hover {
+  transform: scale(1.025);
+}
